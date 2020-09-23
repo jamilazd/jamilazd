@@ -1,5 +1,6 @@
 Hi! I'm Jamila 👋🏽 
 ------------------------------------------------------------------------------------------------------------------------------------
+🤩 - I started learning to code in August 2020! 
 
 🎉 - I'm currently a student on a Full-Stack Developer Bootcamp, created by Coding Black Females.
 
