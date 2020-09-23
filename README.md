@@ -5,7 +5,9 @@ Hi! I'm Jamila 👋🏽
 
 💻 - I'm currently learning: HTML, CSS, JavaScript, React, jQuery, Python, SQL ...
 
-👍🏽 - Pronouns: She/ Her
+👍🏽 - Pronouns: She/Her
+
+📱 - Instagram: @thatgirl_codes
 
 😸 - Favourite animal: Cats of course! 
 
