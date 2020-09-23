@@ -1,5 +1,3 @@
-![](https://media.giphy.com/media/VekcnHOwOI5So/giphy.gif)
-
 Hi! I'm Jamila 👋🏽 
 ------------------------------------------------------------------------------------------------------------------------------------
 
@@ -10,3 +8,5 @@ Hi! I'm Jamila 👋🏽
 👍🏽 - Pronouns: She/ Her
 
 😸 - Favourite animal: Cats of course! 
+
+![](https://media.giphy.com/media/VekcnHOwOI5So/giphy.gif)
