@@ -4,7 +4,7 @@ Hi! I'm Jamila 👋🏽
 
 🎉 - I'm currently a student on Black Codher's Full-Stack Developer Bootcamp.
 
-💻 - I'm currently learning: HTML, CSS, JavaScript, React, jQuery, node.js, Python, SQL ...
+💻 - I'm currently learning: HTML, CSS, JavaScript, React, Node.js, Express, MongoDB, Python ...
 
 👍🏽 - Pronouns: She/Her
 
