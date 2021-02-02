@@ -2,7 +2,7 @@ Hi! I'm Jamila 👋🏽
 ------------------------------------------------------------------------------------------------------------------------------------
 🤩 - I started learning to code in August 2020! 
 
-🎉 - I'm currently a student on a Full-Stack Developer Bootcamp, created by Coding Black Females.
+🎉 - I'm currently a student on Black Codher's Full-Stack Developer Bootcamp.
 
 💻 - I'm currently learning: HTML, CSS, JavaScript, React, jQuery, node.js, Python, SQL ...
 
