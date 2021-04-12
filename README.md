@@ -2,13 +2,13 @@ Hi! I'm Jamila 👋🏽
 ------------------------------------------------------------------------------------------------------------------------------------
 🤩 - I started learning to code in August 2020! 
 
-🎉 - I'm currently a student on Black Codher's Full-Stack Developer Bootcamp.
+🎉 - Black Codher's Full-Stack Developer Bootcamp Alumni.
 
-💻 - I'm currently learning: HTML, CSS, JavaScript, React, Node.js, Express, MongoDB, Python ...
+💻 - Interested in UX Design
 
 👍🏽 - Pronouns: She/Her
 
-📱 - Instagram: @thatgirl_codes
+📱 - Instagram: @ux_jem
 
 😸 - Favourite animal: Cats of course! 
 
