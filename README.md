@@ -1,10 +1,8 @@
 Hi! I'm Jamila 👋🏽 
 ------------------------------------------------------------------------------------------------------------------------------------
-🤩 - I started learning to code in August 2020! 
-
 🎉 - Black Codher's Full-Stack Developer Bootcamp Alumni.
 
-💻 - Interested in UX Design
+💻 - Interested in UX Design & Front-end Development
 
 👍🏽 - Pronouns: She/Her
 
